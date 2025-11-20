@@ -1,0 +1,50 @@
+[
+  {
+    "position": "Ketua OSIS",
+    "name": "Ahmad Rizki Pratama",
+    "class": "Kelas XII IPA 1",
+    "image": "/images/members/member1.jpg"
+  },
+  {
+    "position": "Wakil Ketua OSIS",
+    "name": "Siti Nurhaliza",
+    "class": "Kelas XII IPS 2",
+    "image": "/images/members/member2.jpg"
+  },
+  {
+    "position": "Sekretaris",
+    "name": "Budi Santoso",
+    "class": "Kelas XI IPA 3",
+    "image": "/images/members/member3.jpg"
+  },
+  {
+    "position": "Bendahara",
+    "name": "Dewi Lestari",
+    "class": "Kelas XI IPS 1",
+    "image": "/images/members/member4.jpg"
+  },
+  {
+    "position": "Seksi Kesiswaan",
+    "name": "Fahmi Hidayat",
+    "class": "Kelas XI IPA 2",
+    "image": "/images/members/member5.jpg"
+  },
+  {
+    "position": "Seksi Keagamaan",
+    "name": "Fatimah Zahra",
+    "class": "Kelas X IPA 1",
+    "image": "/images/members/member6.jpg"
+  },
+  {
+    "position": "Seksi Olahraga",
+    "name": "Andi Wijaya",
+    "class": "Kelas XI IPA 1",
+    "image": "/images/members/member7.jpg"
+  },
+  {
+    "position": "Seksi Seni & Budaya",
+    "name": "Cantika Putri",
+    "class": "Kelas X IPS 2",
+    "image": "/images/members/member8.jpg"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "akademik",
+    "title": "Akademik",
+    "description": "Program bimbingan belajar, les tambahan, dan kompetisi akademik untuk meningkatkan prestasi siswa.",
+    "icon": "BookOpen",
+    "image": "/images/programs/akademik.jpg",
+    "tujuan": "Meningkatkan prestasi akademik siswa melalui bimbingan belajar dan kompetisi yang membangun semangat belajar.",
+    "sasaran": [
+      "Meningkatkan rata-rata nilai siswa minimal 10%",
+      "Mempersiapkan siswa untuk kompetisi akademik tingkat nasional",
+      "Membentuk kelompok belajar yang solid dan saling mendukung"
+    ],
+    "kegiatan": [
+      {
+        "nama": "Bimbingan Belajar Berkala",
+        "deskripsi": "Sesi belajar tambahan setiap hari Sabtu untuk mata pelajaran inti",
+        "jadwal": "Setiap Sabtu, 08:00 - 12:00"
+      },
+      {
+        "nama": "Try Out Berkala",
+        "deskripsi": "Simulasi ujian untuk mempersiapkan siswa menghadapi ujian sekolah dan nasional",
+        "jadwal": "Setiap bulan"
+      },
+      {
+        "nama": "Olimpiade Sekolah",
+        "deskripsi": "Kompetisi internal untuk seleksi peserta olimpiade tingkat nasional",
+        "jadwal": "Semester 1"
+      }
+    ],
+    "pencapaian": [
+      "Juara 1 Olimpiade Matematika Tingkat Provinsi 2024",
+      "Peningkatan rata-rata nilai UN sebesar 15%",
+      "25 siswa lolos seleksi OSN tingkat nasional"
+    ]
+  },
+  {
+    "id": "olahraga",
+    "title": "Olahraga",
+    "description": "Berbagai kegiatan olahraga dan kompetisi untuk mengembangkan jiwa sportivitas dan kesehatan.",
+    "icon": "Trophy",
+    "image": "/images/programs/olahraga.jpg",
+    "tujuan": "Membangun jiwa sportivitas dan meningkatkan kesehatan fisik siswa melalui berbagai kegiatan olahraga.",
+    "sasaran": [
+      "Membentuk tim olahraga yang kompetitif",
+      "Meningkatkan partisipasi siswa dalam kegiatan olahraga",
+      "Menjuarai kompetisi olahraga antar sekolah"
+    ],
+    "kegiatan": [
+      {
+        "nama": "Latihan Rutin Tim Olahraga",
+        "deskripsi": "Latihan basket, futsal, voli, dan badminton untuk persiapan kompetisi",
+        "jadwal": "Senin - Jumat, 15:00 - 17:00"
+      },
+      {
+        "nama": "Liga Olahraga Antar Kelas",
+        "deskripsi": "Kompetisi olahraga internal untuk memupuk sportivitas",
+        "jadwal": "Setiap semester"
+      },
+      {
+        "nama": "Senam Pagi Bersama",
+        "deskripsi": "Kegiatan senam untuk menjaga kebugaran seluruh siswa",
+        "jadwal": "Setiap Jumat, 07:00 - 07:30"
+      }
+    ],
+    "pencapaian": [
+      "Juara 1 Futsal Piala Walikota 2024",
+      "Juara 2 Basket Antar SMA Se-Kota",
+      "Partisipasi 80% siswa dalam kegiatan olahraga"
+    ]
+  },
+  {
+    "id": "seni-budaya",
+    "title": "Seni & Budaya",
+    "description": "Wadah untuk mengekspresikan kreativitas melalui seni musik, tari, teater, dan seni rupa.",
+    "icon": "Palette",
+    "image": "/images/programs/seni.jpg",
+    "tujuan": "Mengembangkan bakat seni dan apresiasi budaya siswa melalui berbagai wadah ekspresi kreatif.",
+    "sasaran": [
+      "Meningkatkan kemampuan seni siswa",
+      "Melestarikan budaya lokal dan nasional",
+      "Menghasilkan karya seni berkualitas"
+    ],
+    "kegiatan": [
+      {
+        "nama": "Ekstrakurikuler Seni",
+        "deskripsi": "Kegiatan musik, tari, teater, dan seni rupa setiap minggu",
+        "jadwal": "Selasa & Kamis, 15:00 - 17:00"
+      },
+      {
+        "nama": "Festival Seni Sekolah",
+        "deskripsi": "Pameran dan pentas seni tahunan untuk menampilkan karya siswa",
+        "jadwal": "November 2024"
+      },
+      {
+        "nama": "Workshop Seni",
+        "deskripsi": "Pelatihan seni dari praktisi profesional",
+        "jadwal": "Setiap bulan"
+      }
+    ],
+    "pencapaian": [
+      "Juara 1 Lomba Tari Tradisional Tingkat Nasional",
+      "Pameran seni rupa di galeri kota",
+      "Album musik sekolah dengan 10 lagu original"
+    ]
+  },
+  {
+    "id": "kepemimpinan",
+    "title": "Kepemimpinan",
+    "description": "Pelatihan dan workshop untuk mengembangkan karakter kepemimpinan dan soft skills siswa.",
+    "icon": "Users",
+    "image": "/images/programs/kepemimpinan.jpg",
+    "tujuan": "Membentuk karakter kepemimpinan yang kuat dan mengembangkan soft skills untuk masa depan siswa.",
+    "sasaran": [
+      "Melatih 100 siswa menjadi pemimpin yang berkarakter",
+      "Meningkatkan kemampuan public speaking dan manajemen organisasi",
+      "Membentuk kader OSIS yang berkualitas"
+    ],
+    "kegiatan": [
+      {
+        "nama": "Leadership Training Camp",
+        "deskripsi": "Pelatihan kepemimpinan intensif dengan outbound dan materi leadership",
+        "jadwal": "Januari & Juli"
+      },
+      {
+        "nama": "Mentoring Program",
+        "deskripsi": "Pendampingan kakak kelas untuk adik kelas dalam pengembangan diri",
+        "jadwal": "Sepanjang tahun"
+      },
+      {
+        "nama": "Public Speaking Workshop",
+        "deskripsi": "Pelatihan berbicara di depan umum dan presentasi",
+        "jadwal": "Setiap 2 bulan"
+      }
+    ],
+    "pencapaian": [
+      "120 siswa mengikuti pelatihan kepemimpinan",
+      "15 siswa menjadi pembicara di berbagai acara sekolah",
+      "OSIS terbaik tingkat kota 2024"
+    ]
+  },
+  {
+    "id": "media-publikasi",
+    "title": "Media & Publikasi",
+    "description": "Mengelola media sosial, majalah sekolah, dan dokumentasi kegiatan untuk berbagi informasi.",
+    "icon": "Newspaper",
+    "image": "/images/programs/media.jpg",
+    "tujuan": "Mengelola informasi dan dokumentasi kegiatan sekolah secara profesional dan kreatif.",
+    "sasaran": [
+      "Meningkatkan engagement media sosial sekolah",
+      "Menerbitkan majalah sekolah berkualitas",
+      "Mendokumentasikan semua kegiatan sekolah"
+    ],
+    "kegiatan": [
+      {
+        "nama": "Pengelolaan Media Sosial",
+        "deskripsi": "Update konten Instagram, YouTube, dan website sekolah",
+        "jadwal": "Setiap hari"
+      },
+      {
+        "nama": "Produksi Majalah Sekolah",
+        "deskripsi": "Majalah bulanan berisi berita, artikel, dan karya siswa",
+        "jadwal": "Setiap bulan"
+      },
+      {
+        "nama": "Tim Dokumentasi",
+        "deskripsi": "Foto dan video dokumentasi setiap kegiatan sekolah",
+        "jadwal": "Setiap ada event"
+      }
+    ],
+    "pencapaian": [
+      "10.000+ followers Instagram sekolah",
+      "Majalah sekolah terbaik se-provinsi",
+      "Channel YouTube dengan 5.000+ subscribers"
+    ]
+  },
+  {
+    "id": "sosial-lingkungan",
+    "title": "Sosial & Lingkungan",
+    "description": "Kegiatan bakti sosial, peduli lingkungan, dan pengabdian masyarakat untuk membangun empati.",
+    "icon": "Heart",
+    "image": "/images/programs/sosial.jpg",
+    "tujuan": "Membangun kepedulian sosial dan lingkungan melalui aksi nyata pengabdian masyarakat.",
+    "sasaran": [
+      "Menyelenggarakan 12 kegiatan sosial per tahun",
+      "Mengurangi sampah plastik di sekolah hingga 50%",
+      "Membantu masyarakat kurang mampu secara berkelanjutan"
+    ],
+    "kegiatan": [
+      {
+        "nama": "Bakti Sosial Bulanan",
+        "deskripsi": "Kunjungan ke panti asuhan, panti jompo, dan daerah terpencil",
+        "jadwal": "Setiap bulan"
+      },
+      {
+        "nama": "Program Bank Sampah",
+        "deskripsi": "Pengelolaan sampah untuk edukasi lingkungan dan fundraising",
+        "jadwal": "Setiap hari"
+      },
+      {
+        "nama": "Donor Darah Rutin",
+        "deskripsi": "Kegiatan donor darah bekerja sama dengan PMI",
+        "jadwal": "Setiap 3 bulan"
+      }
+    ],
+    "pencapaian": [
+      "15 kegiatan bakti sosial telah dilaksanakan",
+      "Pengurangan sampah plastik sebesar 60%",
+      "Penggalangan dana Rp 50 juta untuk korban bencana"
+    ]
+  }
+]

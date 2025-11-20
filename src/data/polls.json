@@ -1,0 +1,16 @@
+[
+  {
+    "id": "poll-1",
+    "title": "Kegiatan OSIS Favorit Kalian?",
+    "description": "Pilih kegiatan OSIS yang paling kamu sukai!",
+    "active": true,
+    "options": [
+      "MPLS",
+      "Festival Seni",
+      "Bakti Sosial",
+      "Donor Darah",
+      "Workshop Kepemimpinan"
+    ],
+    "votes": [0, 0, 0, 0, 0]
+  }
+]
