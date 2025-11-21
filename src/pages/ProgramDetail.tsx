@@ -15,7 +15,7 @@ const ProgramDetail = () => {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
-          <h1 className="text-4xl font-bold mb-4">Program Tidak Ditemukan</h1>
+          <h1 className="text-4xl font-bold mb-4">Sekretaris Bidang Tidak Ditemukan</h1>
           <Link to="/">
             <Button>Kembali ke Beranda</Button>
           </Link>
@@ -40,7 +40,7 @@ const ProgramDetail = () => {
             <Link to="/#programs">
               <Button variant="ghost" className="mb-4 text-white hover:text-white">
                 <ArrowLeft className="mr-2" size={20} />
-                Kembali ke Program Kerja
+                Kembali ke Sekretaris Bidang
               </Button>
             </Link>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
