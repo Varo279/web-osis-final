@@ -40,7 +40,7 @@ const ProgramDetail = () => {
             <Link to="/#programs">
               <Button variant="ghost" className="mb-4 text-white hover:text-white">
                 <ArrowLeft className="mr-2" size={20} />
-                Kembali ke Sekretaris Bidang
+                Kembali ke Beranda
               </Button>
             </Link>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
@@ -64,7 +64,7 @@ const ProgramDetail = () => {
           <Card className="p-6 col-span-2">
             <h3 className="text-2xl font-bold mb-4 flex items-center gap-2">
               <CheckCircle className="text-primary" />
-              Sasaran Program
+              Sasaran Sekretaris Bidang
             </h3>
             <ul className="space-y-3">
               {program.sasaran.map((sasaran: string, index: number) => (
@@ -82,7 +82,7 @@ const ProgramDetail = () => {
         <div className="mb-12">
           <h2 className="text-3xl font-bold mb-6 flex items-center gap-2">
             <Calendar className="text-primary" />
-            Kegiatan Program
+            Kegiatan Bidang
           </h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {program.kegiatan.map((kegiatan: any, index: number) => (
