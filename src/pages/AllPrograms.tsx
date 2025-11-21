@@ -34,7 +34,7 @@ const AllPrograms = () => {
               Semua Sekretaris Bidang
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Daftar lengkap program kerja OSIS periode 2025/2026
+              Daftar lengkap Sekretaris Bidang OSIS periode 2025/2026
             </p>
           </div>
 
