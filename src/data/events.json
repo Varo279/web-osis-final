@@ -5,9 +5,9 @@
     "title": "Masa Pengenalan Lingkungan Sekolah (MPLS)",
     "date": "15-17 Juli 2025",
     "location": "Lingkungan Sekolah",
-    "participants": "320 Siswa Baru",
+    "participants": "157 Siswa Baru",
     "type": "Orientasi",
-    "description": "Kegiatan pengenalan lingkungan sekolah untuk siswa baru kelas X dengan berbagai permainan edukatif dan pengenalan budaya sekolah.",
+    "description": "Kegiatan pengenalan lingkungan sekolah untuk siswa baru kelas VII dengan berbagai permainan edukatif dan pengenalan budaya sekolah.",
     "image": "/images/events/mpls.jpg",
     "tujuan": "Memperkenalkan siswa baru dengan lingkungan sekolah, tata tertib, dan budaya sekolah agar dapat beradaptasi dengan baik.",
     "rangkaian_kegiatan": [
@@ -35,7 +35,7 @@
         "hari": "Hari 3",
         "tema": "Komitmen Belajar",
         "kegiatan": [
-          "Tips sukses belajar di SMA",
+          "Tips sukses belajar di SMP",
           "Pengenalan tata tertib sekolah",
           "Pembentukan kelas dan pengurus",
           "Upacara penutupan dan pentas seni"
@@ -51,8 +51,8 @@
     ],
     "gallery": [
       "/images/events/mpls.jpg",
-      "/images/events/workshop.jpg",
-      "/images/events/hut-ri.jpg"
+      "/images/events/mpls2.jpg",
+      "/images/events/mpls3.jpg"
     ]
   }
 ]
