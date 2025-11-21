@@ -31,10 +31,10 @@ const AllPrograms = () => {
 
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-              Semua Program Kerja
+              Semua Sekretaris Bidang
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Daftar lengkap program kerja OSIS periode 2024/2025
+              Daftar lengkap program kerja OSIS periode 2025/2026
             </p>
           </div>
 
