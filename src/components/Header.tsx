@@ -38,8 +38,8 @@ const Header = () => {
     { name: "Anggota", href: "#members" },
     { name: "Program", href: "#programs" },
     { name: "Kegiatan", href: "#events" },
-    { name: "Polling", href: "/polling" },
     { name: "Kontak", href: "#contact" },
+    { name: "Polling", href: "/polling" }
   ];
 
   return (
