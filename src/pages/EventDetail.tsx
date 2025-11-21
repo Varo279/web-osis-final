@@ -76,7 +76,7 @@ const EventDetail = () => {
             <Link to="/#events">
               <Button variant="ghost" className="mb-4 text-white hover:text-white">
                 <ArrowLeft className="mr-2" size={20} />
-                Kembali ke Kegiatan
+                Kembali ke Beranda
               </Button>
             </Link>
             <Badge className={`${getTypeColor(event.type)} text-white mb-4`}>
