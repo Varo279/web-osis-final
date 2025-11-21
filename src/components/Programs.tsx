@@ -33,7 +33,7 @@ const Programs = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16 animate-slide-up">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Program Kerja
+            Sekretaris Bidang
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Berbagai Sekretaris Bidang yang dirancang untuk mengembangkan potensi dan kreativitas siswa 
