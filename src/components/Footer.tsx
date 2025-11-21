@@ -15,7 +15,7 @@ const Footer = () => {
 
           <div className="text-center md:text-right">
             <p className="text-sm text-background/80">
-              © 2024 OSIS. Seluruh hak cipta dilindungi.
+              © 2025 OSIS. Seluruh hak cipta dilindungi.
             </p>
             <p className="text-sm text-background/60">
               Dibuat dengan ❤️ oleh OSIS
