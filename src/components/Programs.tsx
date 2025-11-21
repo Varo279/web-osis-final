@@ -36,8 +36,8 @@ const Programs = () => {
             Program Kerja
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Berbagai program yang dirancang untuk mengembangkan potensi dan kreativitas siswa 
-            dalam berbagai bidang.
+            Berbagai Sekretaris Bidang yang dirancang untuk mengembangkan potensi dan kreativitas siswa 
+            dalam berbagai hal.
           </p>
         </div>
 
@@ -82,7 +82,7 @@ const Programs = () => {
           <div className="text-center mt-12 animate-fade-in">
             <Link to="/programs">
               <Button size="lg" variant="outline" className="hover:bg-gradient-hero hover:text-white hover:border-transparent transition-all duration-500 hover:scale-110 hover:shadow-glow">
-                Lihat Semua Program ({programs.length})
+                Lihat Semua Sekretaris Bidang ({programs.length})
               </Button>
             </Link>
           </div>
