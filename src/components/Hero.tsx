@@ -131,7 +131,7 @@ const Hero = () => {
               transition: 'transform 0.3s ease-out'
             }}
           >
-              <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-glow group-hover:scale-110 transition-transform duration-300">
+              <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-glow group-hover:scale-110 transition-transform duration-300"></div>
               <img src={osisLogo} alt="Logo OSIS" className="w-10 h-10 object-contain" />
             </div>
           
