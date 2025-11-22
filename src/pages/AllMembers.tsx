@@ -24,7 +24,7 @@ const AllMembers = () => {
               Semua Anggota OSIS
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Pengurus OSIS periode 2024/2025
+              Pengurus OSIS periode 2025/2026
             </p>
           </div>
 
