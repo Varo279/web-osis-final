@@ -36,7 +36,7 @@ const Header = () => {
     { name: "Beranda", href: "#home" },
     { name: "Tentang", href: "#about" },
     { name: "Anggota", href: "#members" },
-    { name: "Program", href: "#programs" },
+    { name: "SekBid", href: "#programs" },
     { name: "Kegiatan", href: "#events" },
     { name: "Kontak", href: "#contact" },
     { name: "Polling", href: "https://grub-vast-precisely.ngrok-free.app" }
