@@ -1,3 +1,4 @@
+import osisLogo from "@/assets/logo.png";
 const Footer = () => {
   return (
     <footer className="bg-foreground text-background py-8">
