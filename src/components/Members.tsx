@@ -6,7 +6,7 @@ import membersData from "@/data/members.json";
 
 const Members = () => {
   const members = membersData;
-  const displayMembers = members.slice(0, 10);
+  const displayMembers = members.slice(0, 9);
   const hasMore = members.length > 9;
 
   return (
