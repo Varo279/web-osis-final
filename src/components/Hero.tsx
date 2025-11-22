@@ -131,7 +131,7 @@ const Hero = () => {
               transition: 'transform 0.3s ease-out'
             }}
           >
-              <img src={osisLogo} alt="Logo OSIS" className="object-contain" width="150" height="150"/>
+              <img src={osisLogo} alt="Logo OSIS" className="object-contain" width="90" height="90"/>
             </div>
           
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 animate-fade-in drop-shadow-2xl" style={{ animationDelay: "0.1s" }}>
