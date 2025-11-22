@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 bg-gradient-hero rounded-full flex items-center justify-center text-white font-bold">
-              OSIS
+               <img src={osisLogo} alt="Logo OSIS" className="w-10 h-10 object-contain" />
             </div>
             <div>
               <p className="font-bold">OSIS</p>
