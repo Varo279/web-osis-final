@@ -23,7 +23,7 @@ const Members = () => {
             Anggota OSIS
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Pengurus OSIS periode 2024/2025 yang siap melayani dan mengembangkan 
+            Pengurus OSIS periode 2025/2026 yang siap melayani dan mengembangkan 
             potensi seluruh siswa di sekolah kami.
           </p>
         </div>
