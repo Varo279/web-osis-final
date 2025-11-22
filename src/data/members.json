@@ -1,8 +1,100 @@
 [
   {
-    "position": "Ketua OSIS",
+    "position": "Ketua Umum",
     "name": "Raditya Arindra Wicaksono",
     "class": "Kelas VIII 8D",
-    "image": "/images/members/member1.jpg"
-  }
+    "image": "/images/members/raw.jpg"
+  },
+  {
+    "position": "Ketua 1",
+    "name": "Kiyasa Qotrunada",
+    "class": "Kelas VIII 8D",
+    "image": "/images/members/kq.jpg"
+  },
+  {
+    "position": "Ketua 2",
+    "name": "Athar Aqiel Nabhan Syafrian",
+    "class": "Kelas VII 7C",
+    "image": "/images/members/aans.jpg"
+  },
+  {
+    "position": "Sekretaris Umum",
+    "name": "Quinn Natha Ozora",
+    "class": "Kelas VIII 8C",
+    "image": "/images/members/qno.jpg"
+  },
+  {
+    "position": "Sekretaris 1",
+    "name": "Falasifa Kayla Ameliani",
+    "class": "Kelas VIII 8E",
+    "image": "/images/members/fka.jpg"
+  },
+  {
+    "position": "Sekretaris 2",
+    "name": "Theodolita Likhita Putri",
+    "class": "Kelas VII 7E",
+    "image": "/images/members/tlp.jpg"
+  },
+  {
+    "position": "Bendahara Umum",
+    "name": "Fatima Namiya Anggita S.",
+    "class": "Kelas VIII 8E",
+    "image": "/images/members/fnas.jpg"
+  },
+  {
+    "position": "Bendahara 1",
+    "name": "Natanael Banyu Aryasatya S.",
+    "class": "Kelas VII 7B",
+    "image": "/images/members/nbas.jpg"
+  },
+  {
+    "position": "Bendahara 2",
+    "name": "Azalea Early Areva B.",
+    "class": "Kelas VII 7C",
+    "image": "/images/members/aeab.jpg"
+  },
+
+  { "position": "Sekbid Agama Islam", "name": "Kanz Aufar Agriza Ghany", "class": "Kelas VIII 8B", "image": "/images/members/kaag.jpg" },
+  { "position": "Sekbid Agama Islam", "name": "Nafisa Zia Assyifa", "class": "Kelas VIII 8C", "image": "/images/members/nza.jpg" },
+  { "position": "Sekbid Agama Islam", "name": "Afif Fikra Nabhan", "class": "Kelas VII 7E", "image": "/images/members/afn.jpg" },
+
+  { "position": "Sekbid Agama Kristen", "name": "Abram Shine Gerald Munthe", "class": "Kelas VIII 8D", "image": "/images/members/asgm.jpg" },
+  { "position": "Sekbid Agama Kristen", "name": "Naomi Cecilia Wolah", "class": "Kelas VII 7D", "image": "/images/members/ncw.jpg" },
+
+  { "position": "Sekbid Agama Katholik", "name": "Tatiana Elizabeth Aelredita Kiara", "class": "Kelas VIII 8B", "image": "/images/members/teak.jpg" },
+  { "position": "Sekbid Agama Katholik", "name": "Theodora Maharini Larasati", "class": "Kelas VII 7B", "image": "/images/members/tml.jpg" },
+
+  { "position": "Sekbid Budi Pekerti", "name": "Abiyyu Mahasatria", "class": "Kelas VIII 8C", "image": "/images/members/am.jpg" },
+  { "position": "Sekbid Budi Pekerti", "name": "Qonita Zahira Hanan", "class": "Kelas VII 7C", "image": "/images/members/qzh.jpg" },
+
+  { "position": "Sekbid Kebangsaan", "name": "Andro Satrio Hutomo", "class": "Kelas VIII 8E", "image": "/images/members/ash.jpg" },
+  { "position": "Sekbid Kebangsaan", "name": "Ammar Muhammad Ramadhan", "class": "Kelas VII 7D", "image": "/images/members/amr.jpg" },
+
+  { "position": "Sekbid Peningkatan Prestasi", "name": "Nafisa Aurelia Talitha Shafa", "class": "Kelas VIII 8D", "image": "/images/members/nats.jpg" },
+  { "position": "Sekbid Peningkatan Prestasi", "name": "Muhammad Aghna Diyo Ersamudro", "class": "Kelas VII 7E", "image": "/images/members/made.jpg" },
+
+  { "position": "Sekbid Demokrasi", "name": "Hammam Abdurrahman Wahyudi", "class": "Kelas VIII 8D", "image": "/images/members/haw.jpg" },
+  { "position": "Sekbid Demokrasi", "name": "Alfian Athalla Khani", "class": "Kelas VII 7C", "image": "/images/members/aak.jpg" },
+
+  { "position": "Sekbid Kewirausahaan", "name": "Karima Aqmar Putri Nurohman", "class": "Kelas VIII 8E", "image": "/images/members/kapn.jpg" },
+  { "position": "Sekbid Kewirausahaan", "name": "Labiba Saphire El Barin", "class": "Kelas VII 7A", "image": "/images/members/lseb.jpg" },
+
+  { "position": "Sekbid Kesehatan & Gizi", "name": "Mahira Mahreen Ufaira", "class": "Kelas VIII 8E", "image": "/images/members/mmu.jpg" },
+  { "position": "Sekbid Kesehatan & Gizi", "name": "Maritza Esta Gassania Progresto", "class": "Kelas VII 7D", "image": "/images/members/meg.jpg" },
+
+  { "position": "Sekbid Seni & Budaya", "name": "Luisa Audrey Kartika", "class": "Kelas VIII 8B", "image": "/images/members/lak.jpg" },
+  { "position": "Sekbid Seni & Budaya", "name": "Davindra Maheswara Damarsakti", "class": "Kelas VII 7A", "image": "/images/members/dmd.jpg" },
+
+  { "position": "Sekbid TIK", "name": "Gibran Kalandra Manggala", "class": "Kelas VIII 8A", "image": "/images/members/gkm.jpg" },
+  { "position": "Sekbid TIK", "name": "Dzaki Fadli Wirawan", "class": "Kelas VIII 8B", "image": "/images/members/dfw.jpg" },
+  { "position": "Sekbid TIK", "name": "Aslan Alvaro Prakoso", "class": "Kelas VII 7C", "image": "/images/members/aap.jpg" },
+
+  { "position": "Sekbid Bahasa", "name": "Aisyah Cettanalini Alula Zea", "class": "Kelas VIII 8A", "image": "/images/members/acaz.jpg" },
+  { "position": "Sekbid Bahasa", "name": "Alena Ershanti Aditya", "class": "Kelas VII 7B", "image": "/images/members/aea.jpg" },
+
+  { "position": "Sekbid Literasi", "name": "Renjani Fitra Hartono", "class": "Kelas VIII 8D", "image": "/images/members/rfh.jpg" },
+  { "position": "Sekbid Literasi", "name": "Azzahra Nadia Wijaya", "class": "Kelas VII 7E", "image": "/images/members/anw.jpg" },
+
+  { "position": "Sekbid Lingkungan Hidup", "name": "Dzaky Atharizz Putra", "class": "Kelas VIII 8A", "image": "/images/members/dap.jpg" },
+  { "position": "Sekbid Lingkungan Hidup", "name": "Fatih Dzafran Wisesa", "class": "Kelas VII 7E", "image": "/images/members/fdw.jpg" }
 ]
