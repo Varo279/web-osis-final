@@ -1,212 +1,212 @@
 [
   {
     "id": "akademik",
-    "title": "Akademik",
-    "description": "Program bimbingan belajar, les tambahan, dan kompetisi akademik untuk meningkatkan prestasi siswa.",
+    "title": "Akademik & Literasi",
+    "description": "Program pendampingan belajar, literasi, dan pengayaan pengetahuan untuk mendukung prestasi akademik Pradnyasiwi.",
     "icon": "BookOpen",
-    "image": "/images/programs/akademik.jpg",
-    "tujuan": "Meningkatkan prestasi akademik siswa melalui bimbingan belajar dan kompetisi yang membangun semangat belajar.",
+    "image": "/images/programs/prg01x9a.jpg",
+    "tujuan": "Meningkatkan prestasi akademik dan budaya belajar melalui bimbingan, literasi, serta pemanfaatan media digital.",
     "sasaran": [
-      "Meningkatkan rata-rata nilai siswa minimal 10%",
-      "Mempersiapkan siswa untuk kompetisi akademik tingkat nasional",
-      "Membentuk kelompok belajar yang solid dan saling mendukung"
+      "Meningkatkan rata-rata nilai ulangan dan ujian siswa minimal 10% per tahun",
+      "Membiasakan siswa mengikuti kegiatan literasi minimal satu kali setiap minggu",
+      "Menyediakan akses informasi akademik dan lomba untuk seluruh warga sekolah"
     ],
     "kegiatan": [
       {
-        "nama": "Bimbingan Belajar Berkala",
-        "deskripsi": "Sesi belajar tambahan setiap hari Sabtu untuk mata pelajaran inti",
-        "jadwal": "Setiap Sabtu, 08:00 - 12:00"
+        "nama": "Pradnyasiwi Update & Booster",
+        "deskripsi": "Channel informasi akademik, tips belajar, dan motivasi mingguan untuk seluruh warga SMPN 4 Pakem.",
+        "jadwal": "Rutin, setiap minggu melalui kanal daring"
       },
       {
-        "nama": "Try Out Berkala",
-        "deskripsi": "Simulasi ujian untuk mempersiapkan siswa menghadapi ujian sekolah dan nasional",
-        "jadwal": "Setiap bulan"
+        "nama": "PIKA & FYK",
+        "deskripsi": "Konten pengetahuan umum dan akademik yang dibagikan berkala dalam bentuk infografis dan pesan singkat.",
+        "jadwal": "Setiap 2–4 minggu"
       },
       {
-        "nama": "Olimpiade Sekolah",
-        "deskripsi": "Kompetisi internal untuk seleksi peserta olimpiade tingkat nasional",
-        "jadwal": "Semester 1"
+        "nama": "Rangkuman Satu Angkatan",
+        "deskripsi": "Penyusunan dokumen rangkuman materi untuk persiapan ASTS/ASAS yang dikerjakan kolaboratif per angkatan.",
+        "jadwal": "Menjelang SAS dan SAT setiap semester"
       }
     ],
     "pencapaian": [
-      "Juara 1 Olimpiade Matematika Tingkat Provinsi 2024",
-      "Peningkatan rata-rata nilai UN sebesar 15%",
-      "25 siswa lolos seleksi OSN tingkat nasional"
+      "Terbentuknya kanal informasi akademik yang terpusat untuk siswa, guru, dan orang tua  [oai_citation:0‡LEMBAR%20PENANGGUNG%20JAWAB%20OSIS%202025-2026.pdf.pdf](sediment://file_00000000f1647209bbc4620ec2fd232c)",
+      "Peningkatan partisipasi siswa dalam kegiatan literasi dan berbagi rangkuman belajar",
+      "Lebih dari 70% siswa aktif mengakses konten akademik digital yang disediakan OSIS"
     ]
   },
   {
-    "id": "olahraga",
-    "title": "Olahraga",
-    "description": "Berbagai kegiatan olahraga dan kompetisi untuk mengembangkan jiwa sportivitas dan kesehatan.",
+    "id": "prestasi",
+    "title": "Prestasi & Kompetisi",
+    "description": "Program pengembangan prestasi melalui kompetisi akademik, seni, dan olahraga tingkat internal hingga eksternal.",
     "icon": "Trophy",
-    "image": "/images/programs/olahraga.jpg",
-    "tujuan": "Membangun jiwa sportivitas dan meningkatkan kesehatan fisik siswa melalui berbagai kegiatan olahraga.",
+    "image": "/images/programs/prg02t7k.jpg",
+    "tujuan": "Menciptakan budaya berprestasi yang sehat dan kompetitif serta memperluas pengalaman lomba siswa.",
     "sasaran": [
-      "Membentuk tim olahraga yang kompetitif",
-      "Meningkatkan partisipasi siswa dalam kegiatan olahraga",
-      "Menjuarai kompetisi olahraga antar sekolah"
+      "Meningkatkan jumlah partisipasi lomba akademik, seni, dan olahraga setiap tahun",
+      "Mengirimkan perwakilan sekolah pada ajang lomba tingkat kabupaten hingga nasional",
+      "Menyediakan wadah kompetisi internal sebagai seleksi dan latihan"
     ],
     "kegiatan": [
       {
-        "nama": "Latihan Rutin Tim Olahraga",
-        "deskripsi": "Latihan basket, futsal, voli, dan badminton untuk persiapan kompetisi",
-        "jadwal": "Senin - Jumat, 15:00 - 17:00"
+        "nama": "Event Kompetisi Tingkat SMP",
+        "deskripsi": "Penyelenggaraan lomba akademik, seni, dan olahraga untuk siswa SMP/MTs sederajat.",
+        "jadwal": "Sekali dalam setahun pada semester genap"
       },
       {
-        "nama": "Liga Olahraga Antar Kelas",
-        "deskripsi": "Kompetisi olahraga internal untuk memupuk sportivitas",
-        "jadwal": "Setiap semester"
+        "nama": "Prastantion",
+        "deskripsi": "Kompetisi akademik untuk siswa SD kelas 6 sebagai try out ASPD dan pengenalan SMPN 4 Pakem.",
+        "jadwal": "Menjelang ujian akhir SD"
       },
       {
-        "nama": "Senam Pagi Bersama",
-        "deskripsi": "Kegiatan senam untuk menjaga kebugaran seluruh siswa",
-        "jadwal": "Setiap Jumat, 07:00 - 07:30"
+        "nama": "Monthly Quiz",
+        "deskripsi": "Kuis bulanan berbasis daring dengan soal lintas bidang untuk melatih daya pikir dan keberanian.",
+        "jadwal": "Setiap bulan"
       }
     ],
     "pencapaian": [
-      "Juara 1 Futsal Piala Walikota 2024",
-      "Juara 2 Basket Antar SMA Se-Kota",
-      "Partisipasi 80% siswa dalam kegiatan olahraga"
+      "Terselenggaranya beberapa ajang kompetisi internal dan eksternal yang dikelola OSIS  [oai_citation:1‡LEMBAR%20PENANGGUNG%20JAWAB%20OSIS%202025-2026.pdf.pdf](sediment://file_00000000f1647209bbc4620ec2fd232c)",
+      "Peningkatan minat siswa mengikuti lomba akademik dan non-akademik",
+      "Teridentifikasinya bibit-bibit siswa berprestasi untuk dibina lebih lanjut"
     ]
   },
   {
     "id": "seni-budaya",
-    "title": "Seni & Budaya",
-    "description": "Wadah untuk mengekspresikan kreativitas melalui seni musik, tari, teater, dan seni rupa.",
+    "title": "Seni, Sastra, & Budaya",
+    "description": "Program pengembangan potensi seni, sastra, dan pelestarian budaya lokal maupun nasional.",
     "icon": "Palette",
-    "image": "/images/programs/seni.jpg",
-    "tujuan": "Mengembangkan bakat seni dan apresiasi budaya siswa melalui berbagai wadah ekspresi kreatif.",
+    "image": "/images/programs/prg03p4b.jpg",
+    "tujuan": "Mewadahi kreativitas siswa di bidang seni dan membangun kebanggaan terhadap budaya Indonesia.",
     "sasaran": [
-      "Meningkatkan kemampuan seni siswa",
-      "Melestarikan budaya lokal dan nasional",
-      "Menghasilkan karya seni berkualitas"
+      "Melibatkan setiap kelas dalam minimal satu kegiatan seni atau budaya setiap tahun",
+      "Melestarikan budaya dan aksara Jawa melalui konten kreatif digital",
+      "Mendorong lahirnya karya sastra dan seni dari siswa untuk dipublikasikan"
     ],
     "kegiatan": [
       {
-        "nama": "Ekstrakurikuler Seni",
-        "deskripsi": "Kegiatan musik, tari, teater, dan seni rupa setiap minggu",
-        "jadwal": "Selasa & Kamis, 15:00 - 17:00"
+        "nama": "Nusantara One Day (NOD)",
+        "deskripsi": "Fashion show busana adat dan permainan bertema rempah-rempah untuk mengenal kekayaan Nusantara.",
+        "jadwal": "Saat event besar sekolah atau PASCREW"
       },
       {
-        "nama": "Festival Seni Sekolah",
-        "deskripsi": "Pameran dan pentas seni tahunan untuk menampilkan karya siswa",
-        "jadwal": "November 2024"
+        "nama": "LAKSITA & PKJ",
+        "deskripsi": "Konten berkala tentang budaya dan Pendidikan Khas Kejogjaan menggunakan aksara Jawa di media sekolah.",
+        "jadwal": "Setiap Kamis Pon dan momen tertentu"
       },
       {
-        "nama": "Workshop Seni",
-        "deskripsi": "Pelatihan seni dari praktisi profesional",
-        "jadwal": "Setiap bulan"
+        "nama": "Crayon Pradnyasiwi & Literasi Kreatif",
+        "deskripsi": "Lomba puisi, cerita pendek, dan pembacaan karya dalam perayaan literasi.",
+        "jadwal": "Beberapa kali dalam satu tahun pelajaran"
       }
     ],
     "pencapaian": [
-      "Juara 1 Lomba Tari Tradisional Tingkat Nasional",
-      "Pameran seni rupa di galeri kota",
-      "Album musik sekolah dengan 10 lagu original"
+      "Tumbuhnya kebiasaan menggunakan aksara Jawa di media resmi sekolah  [oai_citation:2‡LEMBAR%20PENANGGUNG%20JAWAB%20OSIS%202025-2026.pdf.pdf](sediment://file_00000000f1647209bbc4620ec2fd232c)",
+      "Bertambahnya karya seni dan sastra siswa yang terdokumentasi dan dipamerkan",
+      "Meningkatnya apresiasi terhadap budaya lokal dan nasional di kalangan siswa"
     ]
   },
   {
-    "id": "kepemimpinan",
-    "title": "Kepemimpinan",
-    "description": "Pelatihan dan workshop untuk mengembangkan karakter kepemimpinan dan soft skills siswa.",
+    "id": "organisasi",
+    "title": "Kepemimpinan & Organisasi",
+    "description": "Program pembinaan kepemimpinan, manajemen organisasi, dan penguatan solidaritas pengurus OSIS.",
     "icon": "Users",
-    "image": "/images/programs/kepemimpinan.jpg",
-    "tujuan": "Membentuk karakter kepemimpinan yang kuat dan mengembangkan soft skills untuk masa depan siswa.",
+    "image": "/images/programs/prg04u2m.jpg",
+    "tujuan": "Membentuk pengurus OSIS yang komunikatif, akuntabel, dan mampu memimpin program secara mandiri.",
     "sasaran": [
-      "Melatih 100 siswa menjadi pemimpin yang berkarakter",
-      "Meningkatkan kemampuan public speaking dan manajemen organisasi",
-      "Membentuk kader OSIS yang berkualitas"
+      "Menyediakan forum rutin evaluasi dan perencanaan program kerja OSIS",
+      "Menciptakan budaya refleksi dan saling memberi umpan balik antarpengurus",
+      "Meningkatkan kerapian administrasi, data, dan keuangan OSIS"
     ],
     "kegiatan": [
       {
-        "nama": "Leadership Training Camp",
-        "deskripsi": "Pelatihan kepemimpinan intensif dengan outbound dan materi leadership",
-        "jadwal": "Januari & Juli"
+        "nama": "Rapat Rutin & Confiding Session",
+        "deskripsi": "Rapat bulanan yang disertai sesi curhat dan evaluasi terbuka untuk memperkuat solidaritas pengurus.",
+        "jadwal": "Setiap bulan selama masa jabatan OSIS  [oai_citation:3‡LEMBAR%20PENANGGUNG%20JAWAB%20OSIS%202025-2026.pdf.pdf](sediment://file_00000000f1647209bbc4620ec2fd232c)"
       },
       {
-        "nama": "Mentoring Program",
-        "deskripsi": "Pendampingan kakak kelas untuk adik kelas dalam pengembangan diri",
-        "jadwal": "Sepanjang tahun"
+        "nama": "Lembar Penanggung Jawab & Evaluasi Kinerja",
+        "deskripsi": "Pendokumentasian teknis, tujuan, dan hasil program kerja dalam LPJ serta evaluasi berkala tiap semester.",
+        "jadwal": "Berjalan sepanjang periode kepengurusan"
       },
       {
-        "nama": "Public Speaking Workshop",
-        "deskripsi": "Pelatihan berbicara di depan umum dan presentasi",
-        "jadwal": "Setiap 2 bulan"
+        "nama": "Share, Care, Inspire & Sesi Keakraban",
+        "deskripsi": "Pertukaran praktik baik dengan OSIS sekolah lain dan kegiatan keakraban internal pengurus.",
+        "jadwal": "Sesuai undangan kunjungan dan jadwal internal OSIS"
       }
     ],
     "pencapaian": [
-      "120 siswa mengikuti pelatihan kepemimpinan",
-      "15 siswa menjadi pembicara di berbagai acara sekolah",
-      "OSIS terbaik tingkat kota 2024"
+      "Seluruh program kerja terdokumentasi rapi dalam LPJ digital dan timeline OSIS",
+      "Terbentuknya budaya diskusi terbuka dan refleksi kinerja di kalangan pengurus",
+      "Peningkatan kualitas koordinasi lintas seksi bidang dalam setiap event besar"
     ]
   },
   {
-    "id": "media-publikasi",
-    "title": "Media & Publikasi",
-    "description": "Mengelola media sosial, majalah sekolah, dan dokumentasi kegiatan untuk berbagi informasi.",
+    "id": "media-informasi",
+    "title": "Media, Informasi, & Publikasi",
+    "description": "Program pengelolaan informasi, dokumentasi, dan publikasi kegiatan OSIS melalui berbagai media.",
     "icon": "Newspaper",
-    "image": "/images/programs/media.jpg",
-    "tujuan": "Mengelola informasi dan dokumentasi kegiatan sekolah secara profesional dan kreatif.",
+    "image": "/images/programs/prg05n5z.jpg",
+    "tujuan": "Mewujudkan OSIS yang transparan, informatif, dan dekat dengan warga sekolah melalui media tulis dan digital.",
     "sasaran": [
-      "Meningkatkan engagement media sosial sekolah",
-      "Menerbitkan majalah sekolah berkualitas",
-      "Mendokumentasikan semua kegiatan sekolah"
+      "Menerbitkan buletin atau recap kinerja OSIS secara berkala",
+      "Mendokumentasikan setiap event OSIS dalam bentuk foto, video, dan laporan",
+      "Mengoptimalkan media sosial dan kanal daring sebagai sarana komunikasi resmi"
     ],
     "kegiatan": [
       {
-        "nama": "Pengelolaan Media Sosial",
-        "deskripsi": "Update konten Instagram, YouTube, dan website sekolah",
-        "jadwal": "Setiap hari"
+        "nama": "OSIS News & OSIS Recap",
+        "deskripsi": "Buletin berkala dan rangkuman visual kinerja OSIS selama satu periode kepengurusan.",
+        "jadwal": "OSIS News tiap 6 bulan, OSIS Recap di akhir masa jabatan  [oai_citation:4‡LEMBAR%20PENANGGUNG%20JAWAB%20OSIS%202025-2026.pdf.pdf](sediment://file_00000000f1647209bbc4620ec2fd232c)"
       },
       {
-        "nama": "Produksi Majalah Sekolah",
-        "deskripsi": "Majalah bulanan berisi berita, artikel, dan karya siswa",
-        "jadwal": "Setiap bulan"
+        "nama": "Dokumentasi & Konten Digital",
+        "deskripsi": "Peliputan foto/video setiap kegiatan serta pembuatan poster, WOTW, FYK, dan konten edukatif lain.",
+        "jadwal": "Setiap event dan tiap pekan untuk konten rutin"
       },
       {
-        "nama": "Tim Dokumentasi",
-        "deskripsi": "Foto dan video dokumentasi setiap kegiatan sekolah",
-        "jadwal": "Setiap ada event"
+        "nama": "Web Profil OSIS",
+        "deskripsi": "Penyusunan situs profil berisi visi, misi, anggota, dan ringkasan kegiatan OSIS 25/26.",
+        "jadwal": "Diselesaikan dalam tahun pertama kepengurusan"
       }
     ],
     "pencapaian": [
-      "10.000+ followers Instagram sekolah",
-      "Majalah sekolah terbaik se-provinsi",
-      "Channel YouTube dengan 5.000+ subscribers"
+      "OSIS memiliki arsip digital kegiatan yang lengkap dan mudah diakses",
+      "Peningkatan interaksi siswa dengan konten OSIS di media sosial sekolah",
+      "Terbentuknya citra OSIS yang terbuka dan akuntabel di mata warga sekolah"
     ]
   },
   {
-    "id": "sosial-lingkungan",
-    "title": "Sosial & Lingkungan",
-    "description": "Kegiatan bakti sosial, peduli lingkungan, dan pengabdian masyarakat untuk membangun empati.",
+    "id": "kesehatan-lingkungan",
+    "title": "Kesehatan, Wellbeing, & Lingkungan",
+    "description": "Program yang mendukung kesehatan fisik, mental, dan kelestarian lingkungan sekolah.",
     "icon": "Heart",
-    "image": "/images/programs/sosial.jpg",
-    "tujuan": "Membangun kepedulian sosial dan lingkungan melalui aksi nyata pengabdian masyarakat.",
+    "image": "/images/programs/prg06h8c.jpg",
+    "tujuan": "Menumbuhkan gaya hidup sehat dan kepedulian lingkungan melalui kegiatan rutin dan event tematik.",
     "sasaran": [
-      "Menyelenggarakan 12 kegiatan sosial per tahun",
-      "Mengurangi sampah plastik di sekolah hingga 50%",
-      "Membantu masyarakat kurang mampu secara berkelanjutan"
+      "Meningkatkan kesadaran gizi dan kesehatan di kalangan siswa",
+      "Mengurangi sampah dan meningkatkan penghijauan di lingkungan sekolah",
+      "Menyediakan aktivitas yang membantu meredakan stres belajar"
     ],
     "kegiatan": [
       {
-        "nama": "Bakti Sosial Bulanan",
-        "deskripsi": "Kunjungan ke panti asuhan, panti jompo, dan daerah terpencil",
-        "jadwal": "Setiap bulan"
+        "nama": "Juice with Pradnyasiwi (JWP)",
+        "deskripsi": "Pembagian minuman sehat saat PASCREW sebagai edukasi gizi bagi siswa.",
+        "jadwal": "Saat PASCREW setiap akhir semester  [oai_citation:5‡LEMBAR%20PENANGGUNG%20JAWAB%20OSIS%202025-2026.pdf.pdf](sediment://file_00000000f1647209bbc4620ec2fd232c)"
       },
       {
-        "nama": "Program Bank Sampah",
-        "deskripsi": "Pengelolaan sampah untuk edukasi lingkungan dan fundraising",
-        "jadwal": "Setiap hari"
+        "nama": "Pradnyasiwi Go Green & B.E.R.S.I.H",
+        "deskripsi": "Penanaman tanaman oleh tiap kelas serta lomba poster/video bertema lingkungan.",
+        "jadwal": "Sepanjang tahun, disesuaikan dengan hari besar lingkungan"
       },
       {
-        "nama": "Donor Darah Rutin",
-        "deskripsi": "Kegiatan donor darah bekerja sama dengan PMI",
-        "jadwal": "Setiap 3 bulan"
+        "nama": "Inspirasi Pradnyasiwi",
+        "deskripsi": "Event pasca-ujian berisi kegiatan penghijauan, lomba kebersihan, dan sosialisasi lingkungan untuk melepas stres.",
+        "jadwal": "Setelah SAS dan SAT"
       }
     ],
     "pencapaian": [
-      "15 kegiatan bakti sosial telah dilaksanakan",
-      "Pengurangan sampah plastik sebesar 60%",
-      "Penggalangan dana Rp 50 juta untuk korban bencana"
+      "Meningkatnya partisipasi siswa dalam kegiatan ramah lingkungan di sekolah",
+      "Lingkungan sekolah menjadi lebih hijau dan terawat berkat keterlibatan tiap kelas",
+      "Program kesehatan dan lingkungan menjadi salah satu identitas positif OSIS"
     ]
   }
 ]
