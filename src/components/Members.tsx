@@ -7,7 +7,7 @@ import membersData from "@/data/members.json";
 const Members = () => {
   const members = membersData;
   const displayMembers = members.slice(0, 10);
-  const hasMore = members.length > 10;
+  const hasMore = members.length > 9;
 
   return (
     <section id="members" className="py-20 bg-muted relative overflow-hidden">
