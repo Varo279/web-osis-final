@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 import schoolBuilding from "@/assets/school-building.png";
-import osisLogo from "@/assets/osis-logo.png";
+import osisLogo from "@/assets/logo.png";
 import { useEffect, useState } from "react";
 
 const Hero = () => {
@@ -11,12 +11,7 @@ const Hero = () => {
 
   // Array of background images
   const backgroundImages = [
-    schoolBuilding,
-    "/images/events/festival-seni.jpg",
-    "/images/events/hut-ri.jpg",
-    "/images/events/mpls.jpg",
-    "/images/programs/akademik.jpg",
-    "/images/programs/olahraga.jpg",
+    schoolBuilding
   ];
 
   useEffect(() => {
@@ -136,13 +131,9 @@ const Hero = () => {
               transition: 'transform 0.3s ease-out'
             }}
           >
-            <div className="absolute inset-0 bg-gradient-hero rounded-full blur-xl opacity-50 animate-glow"></div>
-            <img 
-              src={osisLogo} 
-              alt="Logo OSIS" 
-              className="relative w-20 h-20 md:w-28 md:h-28 object-contain"
-            />
-          </div>
+              <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-glow group-hover:scale-110 transition-transform duration-300">
+              <img src={osisLogo} alt="Logo OSIS" className="w-10 h-10 object-contain" />
+            </div>
           
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-6 animate-fade-in drop-shadow-2xl" style={{ animationDelay: "0.1s" }}>
             OSIS SMPN 4 PAKEM
