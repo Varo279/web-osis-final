@@ -39,7 +39,7 @@ const Header = () => {
     { name: "Program", href: "#programs" },
     { name: "Kegiatan", href: "#events" },
     { name: "Kontak", href: "#contact" },
-    { name: "Polling", href: "/polling" }
+    { name: "Polling", href: "https://grub-vast-precisely.ngrok-free.app" }
   ];
 
   return (
